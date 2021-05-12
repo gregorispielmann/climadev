@@ -26,7 +26,7 @@ It's a mobile app that uses the OpenWeatherAPI.
 
 ### Important!
 
-This project was made in a M1 Macbook Pro (Late 2020), because of that some workaround was make that iOS and Android projects were builded in the emulators. If you have any problem, please open an **Issue**.
+This project was made in a M1 Macbook Pro (Late 2020), because of that some workaround was made that iOS and Android projects were builded in the emulators. If you have any problem, please open an [**Issue**](https://github.com/gregorispielmann/climadev/issues).
 
 
 ## 🧐 About <a name = "about"></a>
