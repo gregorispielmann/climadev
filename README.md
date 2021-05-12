@@ -22,7 +22,6 @@ It's a mobile app that uses the OpenWeatherAPI.
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
-- [TODO](#todo)
 
 ### Important!
 
